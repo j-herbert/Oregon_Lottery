@@ -1,6 +1,6 @@
 ---
 title: "STAT 600 - Final Project"
-author: "John Herbert, Snigdha Peddi"
+author: "John Herbert"
 date: "08/07/20"
 output:
   word_document: default
